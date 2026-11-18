@@ -1,0 +1,9 @@
+
+API_BASE_URL = "http://127.0.0.1:8000"
+
+APP_TITLE = "LogMind AI"
+APP_ICON = "🧠"
+
+REQUEST_TIMEOUT = 30
+
+MAX_UPLOAD_SIZE_MB = 10
